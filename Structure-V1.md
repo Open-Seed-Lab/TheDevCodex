@@ -17,16 +17,37 @@ examples, practice, and more for each programming language and independent tool
 - Typescript
 - more ...
 
-Structure
+## Actual Structure
 
 ```text
 
 Root
-  ├─ 01 Rough Notes
-  ├─ 02 Main Notes
-  ├─ 03 Attachments
-  ├─ 04 Miscellaneous
-  ├─ 05 Templates
-  └─ 06 Snippets
+  ├─ 📁 01 Rough Notes
+  │  ├─ 📜 Name.ext
+  │  └─ 📜 Name.ext
+  ├─ 📁 02 Main Notes
+  │  ├─ 📜 Name.ext
+  │  └─ 📜 Name.ext
+  ├─ 📁 03 Attachments
+  │  ├─ 📜 Name.ext
+  │  └─ 📜 Name.ext
+  ├─ 📁 04 Miscellaneous
+  │  ├─ 📜 Name.ext
+  │  └─ 📜 Name.ext
+  ├─ 📁 05 Templates
+  │  ├─ 📜 Name.ext
+  │  └─ 📜 Name.ext
+  ├─ 📁 06 Snippets
+  │  ├─ 📜 Name.ext
+  │  └─ 📜 Name.ext
+  ├─ 📜 License
+  ├─ 📜 Readme.md
+  └─ 📜 Structure-V{Version}.md
 
 ```
+
+## Tags
+
+| Name        | Description                |
+| :---------- | :------------------------- |
+| MyDevDen    | Ported info from MyDevDen repo to Open Seed Lab Organisation |
