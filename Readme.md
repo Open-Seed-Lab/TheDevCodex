@@ -16,7 +16,9 @@ This is strictly a personal repository for my own use. Therefore, I am not accep
 
 [Vemula Nishanth][Author]
 
-> [!NOTE] Disclaimer
+## Disclaimer
+
+> [!CAUTION]
 >
 > - These notes are for my personal use and understanding.
 > - While I aim for accuracy, the information contained here might not be exhaustive, completely up-to-date, or error-free.
