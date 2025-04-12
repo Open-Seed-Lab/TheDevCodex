@@ -6,7 +6,7 @@ This repository is my personal space to document learnings,
 Past efforts have unfortunately been abandoned due to procrastination.
 My sincere hope is that this repository will be different and become a valuable resource over time.
 
-My latest project before this one was not a complete failure like others, but I have come accross Github Organisation and want to segregate my learning projects into an Organisation
+My latest project before this one was not a complete failure like others (MyDevDen), but I have come accross Github Organisation and want to segregate my learning projects into an Organisation
 
 ## No Contributions Please
 
